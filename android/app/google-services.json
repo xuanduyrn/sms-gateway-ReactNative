@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "55749774405",
+    "firebase_url": "https://ebus-bba31.firebaseio.com",
+    "project_id": "ebus-bba31",
+    "storage_bucket": "ebus-bba31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55749774405:android:2487b3f24f0adf62",
+        "android_client_info": {
+          "package_name": "com.smsgate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55749774405-sbk9p8dtcj3ag513u11hattr3o3l6hvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1FtTKcoZ45jrRaTy9L-IyEYydbE3BBxI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
